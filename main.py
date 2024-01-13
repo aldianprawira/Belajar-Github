@@ -1,1 +1,3 @@
-print('Hello World!')
+pesan = "aku dari local"
+
+print(f"Hello World! {pesan}")
