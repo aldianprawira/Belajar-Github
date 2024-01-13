@@ -1,3 +1,3 @@
-pesan = "aku dari local"
+pesan = "aku dari local ke remote"
 
 print(f"Hello World! {pesan}")
